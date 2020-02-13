@@ -1,0 +1,6 @@
+public class Test{
+
+	plublic void testMethod(){}
+
+
+}
