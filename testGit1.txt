@@ -1,8 +1,12 @@
 public class Test{
 
-	plublic void testMethod(int a){
+	plublic void testMethod(String a, int b){
 		System.out.println("Hello word java");
 	}
 	public void main(String args){
 	}
+<<<<<<< .mine
+}  
+=======
 }
+>>>>>>> .theirs
