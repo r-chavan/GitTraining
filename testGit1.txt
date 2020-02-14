@@ -3,4 +3,6 @@ public class Test{
 	plublic void testMethod(){
 		System.out.println("Hello word");
 	}
+	public void main(String args){
+	}
 }
