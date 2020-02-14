@@ -1,7 +1,7 @@
 public class Test{
 
 	plublic void testMethod(){
-		System.out.println("Hello word");
+		System.out.println("Hello word java");
 	}
 	public void main(String args){
 	}
