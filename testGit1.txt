@@ -1,6 +1,6 @@
 public class Test{
 
-	plublic void testMethod(){
+	plublic void testMethod(int a){
 		System.out.println("Hello word java");
 	}
 	public void main(String args){
